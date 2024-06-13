@@ -72,7 +72,7 @@ chmod 0744 k8s-script.sh
 9️⃣ kubectl get svc에서 LoadBalancer type으로 생성한 service의 외부 IP:3000으로 접근
 
 
-[💻 실행 매뉴얼 보러가기](https://www.canva.com/design/DAGHU2_ZUCI/PgM4frKMU8UUVXK_OZwitA/edit?utm_content=DAGHU2_ZUCI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[💻 실행 매뉴얼 보러가기](https://www.canva.com/design/DAGHU2_ZUCI/W4dQDDwqfeQCjq-vMbtLEQ/view?utm_content=DAGHU2_ZUCI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 
