@@ -8,7 +8,7 @@
 
 <br>
 
-### 💻 실행 매뉴얼
+### [💻 실행 매뉴얼](https://www.canva.com/design/DAGHU2_ZUCI/W4dQDDwqfeQCjq-vMbtLEQ/view?utm_content=DAGHU2_ZUCI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 ---
 
 1️⃣ Git Clone하기
@@ -72,14 +72,7 @@ chmod 0744 k8s-script.sh
 9️⃣ kubectl get svc에서 LoadBalancer type으로 생성한 service의 외부 IP:3000으로 접근
 
 
-[💻 실행 매뉴얼 보러가기](https://www.canva.com/design/DAGHU2_ZUCI/W4dQDDwqfeQCjq-vMbtLEQ/view?utm_content=DAGHU2_ZUCI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+### [📖 최종 발표자료](https://www.miricanvas.com/v/13bar62)
 
 
-
-### 📖 최종 발표자료
----
-[발표자료 보러가기](https://www.miricanvas.com/v/13bar62)
-
-### 🎞 데모영상
----
-[데모영상 보러가기](https://www.youtube.com/watch?v=tZHxczvC-NY)
+### [🎞 데모영상](https://www.youtube.com/watch?v=tZHxczvC-NY)
