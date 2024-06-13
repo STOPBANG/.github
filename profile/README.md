@@ -74,11 +74,11 @@ chmod 0744 k8s-script.sh
 
 [💻 실행 매뉴얼 보러가기](https://www.canva.com/design/DAGHU2_ZUCI/PgM4frKMU8UUVXK_OZwitA/edit?utm_content=DAGHU2_ZUCI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+
+
 ### 📖 최종 발표자료
 ---
 [발표자료 보러가기](https://www.miricanvas.com/v/13bar62)
-
-<br>
 
 ### 🎞 데모영상
 ---
